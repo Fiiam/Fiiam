@@ -2,7 +2,7 @@
 - 👀 I’m interested in management, bicycles, AI, japanese language, books, tv series, movies
 - 🌱 I’m currently learning html, CSS and java trough "The Odin project!"
 - 💞️ I’m looking to collaborate on - not really know that yet :)
-- 📫 How to reach me - tou can reach me through Discord: Aldens#2783
+- 📫 How to reach me - you can reach me through Discord: Aldens#2783
 -  
 <!---
 Fiiam/Fiiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
